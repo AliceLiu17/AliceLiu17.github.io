@@ -1,29 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome, to Alice Liu's website
+
+### Self introduction
+
+- Currently a Junior majoring in Computer Science at The City College of New York (CCNY). 
+- Is expected to receive bachelor of science degree by May 2024. 
+- The reason why I choose this major is because I've always been curious about the way coding works. Ever since then this field of study stuck with me just for the pure satisifaction for the things I can build and do with lines of logic and code. 
+- ** Interests: **
+-       Reading
+-       Listening to music (favorites based on current mood)
+-       Traveling (want to explore Europe)
+-       Gaming (current addiction is Pixel Gun)
+- Please check out my Github: [GithubLink](https://github.com/AliceLiu17?tab=repositories)
+- Stay Connected?
+-       Gmail: alice.liu37@gmail.com  _OR_ aliu005@citymail.cuny.edu
+-       Linkedin: [LinkedinLink](https://www.linkedin.com/in/alice-liu-a50168207/)
+
 
 You can use the [editor on GitHub](https://github.com/AliceLiu17/AliceLiu17.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
